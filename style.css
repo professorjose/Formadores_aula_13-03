@@ -41,4 +41,6 @@
 
 .secao1-conteudo{
     width: 35%;
+    display: flex;
+    justify-content: center;
 }
