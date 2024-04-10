@@ -43,4 +43,5 @@
     width: 35%;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
