@@ -1,6 +1,7 @@
 .cabecalho{
     background-color: #07C4D9;
     display: flex;
+    padding: 24px;
 }
 
 .cabecalho-titulo{
