@@ -12,6 +12,7 @@
 
 .cabecalho-lista{
     color: white;
+    display: inline-block;
 }
 
 .cabecalho-imagem{
