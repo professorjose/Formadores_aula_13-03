@@ -12,9 +12,12 @@
 
 .cabecalho-lista{
     color: white;
-    display: inline-block;
 }
 
 .cabecalho-imagem{
     width: 400px;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
 }
