@@ -30,9 +30,9 @@
 }
 
 .secao1{
-    background-image: linear-gradient(#07C4D9,#03393F);
+    background-image: (#07C4D9,#03393F);
 }
 
 .secao1-imagem{
-    width: 200px;
+    width: 220px;
 }
