@@ -54,6 +54,10 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.estudante{
+    background-color: #03393F;
+}
+
 .estudante-imagem{
     width: 120px;
 }
